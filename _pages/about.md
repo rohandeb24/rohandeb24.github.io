@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Rohan Deb | Homepage"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
