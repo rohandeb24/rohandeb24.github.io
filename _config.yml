@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Rohan Deb | Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Rohan Deb"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Rohan Deb"
-  avatar           : "a.png"
+  avatar           : "a.jpg"
   bio              : "PhD Student at UIUC"
   location         : "Urbana-Champaign, IL"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "rohandeb24"
   google_plus      :
   keybase          :
   instagram        :
