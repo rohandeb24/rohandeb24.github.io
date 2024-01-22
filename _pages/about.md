@@ -19,3 +19,8 @@ I am a second year Ph.D. student in the [Department of Computer Science](https:/
 ⭐ Jan 2024: One paper accepted at ICLR, 2024  
 ⭐ Aug 2023: Presented our paper at UAI, 2023 at Pittsburgh  
 ⭐ Aug 2022: Started Phd in CS at UIUC  
+
+## Selected Papers
+- **Contextual Bandits with Online Neural Regression**.  
+Rohan Deb, Yikun Ban, Shiliang Zuo, Jingrui He, Arindam Banerjee  
+Accepted at 12th International Conference on Learning Representations (ICLR), 2024 
