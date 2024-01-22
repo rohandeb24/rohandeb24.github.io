@@ -23,4 +23,9 @@ I am a second year Ph.D. student in the [Department of Computer Science](https:/
 ## Selected Papers
 - **Contextual Bandits with Online Neural Regression**.  
 Rohan Deb, Yikun Ban, Shiliang Zuo, Jingrui He, Arindam Banerjee  
-Accepted at 12th International Conference on Learning Representations (ICLR), 2024 
+Accepted at 12th International Conference on Learning Representations (ICLR), 2024
+
+- **Think Before You Duel: Understanding Complexities of Preference Learning under
+Constrained Resources**.
+Rohan Deb, Aadirupa Saha
+Accepted at 27th International Conference on Artificial Intelligence and Statistics (AISTATS), 2024
