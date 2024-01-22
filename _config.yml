@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Rohan Deb"
 title_separator          : "-"
 name                     : &name "Rohan Deb"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rohan Deb"
+  name             : 
   avatar           : "profile_image.jpg"
   bio              : "PhD Student at UIUC"
   location         : "Urbana-Champaign, IL"
