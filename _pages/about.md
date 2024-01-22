@@ -15,4 +15,4 @@ I am a second year Ph.D. student in the [Department of Computer Science](https:/
 - Deep Learning: Optimization, Generalization, and Geometry
 
 ## News
-\* A
+:star2: A
