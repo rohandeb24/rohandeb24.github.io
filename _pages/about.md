@@ -15,7 +15,7 @@ I am a second year Ph.D. student in the [Department of Computer Science](https:/
 - Deep Learning: Optimization, Generalization, and Geometry
 
 ## News
-:star: Jan-2024: One paper accepted at AISTATS, 2024\\
-:star: Jan 2024: One paper accepted at ICLR, 2024
-:star: Aug 2023: Presented our paper at UAI, 2023 at Pittsburgh
-:star: Aug 2022: Started Phd in CS at UIUC
+:star: Jan-2024: One paper accepted at AISTATS, 2024  
+:star: Jan 2024: One paper accepted at ICLR, 2024  
+:star: Aug 2023: Presented our paper at UAI, 2023 at Pittsburgh  
+:star: Aug 2022: Started Phd in CS at UIUC  
