@@ -14,11 +14,6 @@ I am a second year Ph.D. student in the [Department of Computer Science](https:/
 - Online Learning under resource constraints
 - Deep Learning: Optimization, Generalization, and Geometry
 
-## News
-⭐ Jan-2024: One paper accepted at AISTATS, 2024  
-⭐ Jan 2024: One paper accepted at ICLR, 2024  
-⭐ Aug 2023: Presented our paper at UAI, 2023 at Pittsburgh  
-⭐ Aug 2022: Started Phd in CS at UIUC  
 
 ## Selected Papers
 - **Contextual Bandits with Online Neural Regression**.  
@@ -29,3 +24,9 @@ Accepted at 12th International Conference on Learning Representations (ICLR), 20
 Constrained Resources**.  
 Rohan Deb, Aadirupa Saha
 Accepted at 27th International Conference on Artificial Intelligence and Statistics (AISTATS), 2024
+
+## News
+⭐ Jan-2024: One paper accepted at AISTATS, 2024  
+⭐ Jan 2024: One paper accepted at ICLR, 2024  
+⭐ Aug 2023: Presented our paper at UAI, 2023 at Pittsburgh  
+⭐ Aug 2022: Started Phd in CS at UIUC  
