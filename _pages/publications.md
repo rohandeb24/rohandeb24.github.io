@@ -7,7 +7,7 @@ author_profile: true
 
 - **Contextual Bandits with Online Neural Regression.**  
 **Rohan Deb**, Yikun Ban, Shiliang Zuo, Jingrui He, Arindam Banerjee  
-Accepted at 12th International Conference on Learning Representations **(ICLR)**, 2024 | [arxiv](https://arxiv.org/abs/2312.07145) | [openreview](https://openreview.net/forum?id=5ep85sakT3&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)
+Accepted at 12th International Conference on Learning Representations **(ICLR)**, 2024 | [arxiv](https://arxiv.org/abs/2312.07145) | [openreview](https://openreview.net/forum?id=5ep85sakT3&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions )
 
 - **Think Before You Duel: Understanding Complexities of Preference Learning under Constrained Resources.**  
 **Rohan Deb**, Aadirupa Saha   
