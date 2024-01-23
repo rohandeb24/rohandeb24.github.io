@@ -17,7 +17,7 @@ Accepted at 27th International Conference on Artificial Intelligence and Statist
 Swetha Ganesh∗, **Rohan Deb**∗, Gugan Thoppe, Amarjit Buddhiraja  
 Accepted at 39th Conference on Uncertainty in Artificial Intelligence **(UAI)**, 2023 | UAI | arxiv
 
-- **Gradient Temporal Difference with Momentum: Stability and Convergence.**
+- **Gradient Temporal Difference with Momentum: Stability and Convergence.**  
 **Rohan Deb**, Shalabh Bhatnagar  
 Accepted at 36th **AAAI** Conference on Artificial Intelligence, 2022 | arxiv | AAAI
 
