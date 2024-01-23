@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Download](http://academicpages.github.io/files/Rohan_CV.pdf)
+[Download](http://rohandeb24.github.io/files/Rohan_CV.pdf)
