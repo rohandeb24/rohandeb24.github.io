@@ -26,7 +26,7 @@ Accepted at 36th **AAAI** Conference on Artificial Intelligence, 2022 | [arxiv](
 Accepted at 58th Annual Allerton Conference on Communication, Control, and Computing, 2022 | [IEEE](https://ieeexplore.ieee.org/document/9929388) | [arxiv](https://arxiv.org/abs/2110.15547)  
 
 - **N -Timescale Stochastic Approximation: Stability and Convergence.**  
-**Rohan Deb**, Shalabh Bhatnagar  
+**Rohan Deb**, Shalabh Bhatnagar  | [arxiv](https://arxiv.org/abs/2112.03515)
 
 (∗ Equal Contribution)
 
