@@ -10,7 +10,7 @@ author_profile: true
 Accepted at 12th International Conference on Learning Representations **(ICLR)**, 2024 | arxiv | openreview
 
 - **Think Before You Duel: Understanding Complexities of Preference Learning under Constrained Resources.**  
-Rohan Deb, Aadirupa Saha | arxiv  
+**Rohan Deb**, Aadirupa Saha | arxiv  
 Accepted at 27th International Conference on Artificial Intelligence and Statistics **(AISTATS)**, 2024  
 
 - **Does Momentum Help in Stochastic Optimization? A sample complexity Analysis.**  
