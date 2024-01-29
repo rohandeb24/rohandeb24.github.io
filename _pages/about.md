@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Ph.D. student in the [Department of Computer Science](https://www.cs.illinois.edu) at the [University of Illinois, Urbana-Champaign](https://www.illinois.edu), advised by [Prof. Arindam Banerjee](https://arindam.cs.illinois.edu/). I am broadly interested in Machine Learning with an emphasis on Sequential decision making under uncertainity. Currently I am interested in the following research threads:
+I am a second year Ph.D. student in the [Department of Computer Science](https://www.cs.illinois.edu) at the [University of Illinois, Urbana-Champaign](https://www.illinois.edu), advised by [Prof. Arindam Banerjee](https://arindam.cs.illinois.edu/). I am broadly interested in Machine Learning with an emphasis on Sequential decision making under uncertainity. I am currently interested in the following research threads:
 
 - Neural Contextual Bandits
 - Online Learning under resource constraints
 - Reinforcement Learning
 - Deep Learning: Optimization, Generalization, and Geometry
+
+In the past I obtained a Master's degree from Indian Institute of Science, working with [Shalabh Bhatnagar](https://www.csa.iisc.ac.in/~shalabh/) and [Gugan Thoppe](https://sites.google.com/site/gugancth/).
 
 
 ## Selected Papers
