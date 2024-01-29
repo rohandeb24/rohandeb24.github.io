@@ -15,7 +15,7 @@ I am a second year Ph.D. student in the [Department of Computer Science](https:/
 - Reinforcement Learning
 - Deep Learning: Optimization, Generalization, and Geometry
 
-In the past I obtained a Master's degree from Indian Institute of Science, working with [Shalabh Bhatnagar](https://www.csa.iisc.ac.in/~shalabh/) and [Gugan Thoppe](https://sites.google.com/site/gugancth/).
+In the past I obtained a Master's degree from the [Department of Computer Science and Automation](https://www.csa.iisc.ac.in/) at the [Indian Institute of Science](https://iisc.ac.in/), working with [Shalabh Bhatnagar](https://www.csa.iisc.ac.in/~shalabh/) and [Gugan Thoppe](https://sites.google.com/site/gugancth/).
 
 
 ## Selected Papers
