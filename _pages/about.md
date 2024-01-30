@@ -20,12 +20,12 @@ I am broadly interested in Machine Learning with an emphasis on Sequential decis
 
 ## Selected Papers
 - **Contextual Bandits with Online Neural Regression** | [arxiv](https://arxiv.org/abs/2312.07145)  
-${\color{red}Rohan Deb}$, Yikun Ban, Shiliang Zuo, Jingrui He, Arindam Banerjee  
+${\color{blue}\text{Rohan Deb}}$, Yikun Ban, Shiliang Zuo, Jingrui He, Arindam Banerjee  
 Accepted at 12th International Conference on Learning Representations (ICLR), 2024
 
 - **Think Before You Duel: Understanding Complexities of Preference Learning under
 Constrained Resources** | [arxiv](https://arxiv.org/abs/2312.17229)  
-**Rohan Deb**, Aadirupa Saha  
+${\color{blue}\text{Rohan Deb}}$, Aadirupa Saha  
 Accepted at 27th International Conference on Artificial Intelligence and Statistics (AISTATS), 2024
 
 ## News
