@@ -8,9 +8,9 @@ author_profile: true
 - **Optimal Transport**  
 Spring 2024 | [Link](https://sites.google.com/view/optimal-tranport-reading-group/home)
 
-- **Reinforcement Learning Theory**
+- **Reinforcement Learning Theory**  
 Winter 2023 | [Link](https://sites.google.com/view/rltheoryreadinggroupwinter23/home)
 
-- **High Dimensional Probability**
+- **High Dimensional Probability**  
   Fall 2023 | [Link](https://sites.google.com/view/hdpfall23/home)
 
