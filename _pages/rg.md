@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Reading Groups"
+permalink: /rg/
 author_profile: true
 ---
 
