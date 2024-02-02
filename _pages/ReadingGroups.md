@@ -5,10 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Optimal Transport**  
+- **Optimal Transport**  
 Spring 2024 | [Link](https://sites.google.com/view/optimal-tranport-reading-group/home)
 
-**Reinforcement Learning Theory**
+- **Reinforcement Learning Theory**
 Winter 2023 | [Link](https://sites.google.com/view/rltheoryreadinggroupwinter23/home)
 
 - **High Dimensional Probability**
