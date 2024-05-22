@@ -17,7 +17,7 @@ I am broadly interested in Machine Learning with an emphasis on Sequential decis
 - Reinforcement Learning
 - Deep Learning: Optimization, Generalization, and Geometry
 
-I am currently interning at AWS AI Labs under [Branislav Kveton](https://https://bkveton.com/).
+I am currently interning at AWS AI Labs under [Branislav Kveton](https://bkveton.com/).
 
 ## Selected Papers
 - **Contextual Bandits with Online Neural Regression** | [arxiv](https://arxiv.org/abs/2312.07145)  
