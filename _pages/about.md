@@ -13,11 +13,11 @@ I am a third year Ph.D. student in the [Department of Computer Science](https://
 I am broadly interested in Machine Learning with an emphasis on Sequential decision making under uncertainty. I am currently interested in the following research threads:
 
 - Neural Contextual Bandits
+- Active Learning and optimal design for Fine-tuning
 - Online Learning under resource constraints
 - Reinforcement Learning
 - Deep Learning: Optimization, Generalization, and Geometry
 
-**I completed a summer internship at AWS AI Labs under [Branislav Kveton](https://bkveton.com/).**
 
 ## Selected Papers
 - **Contextual Bandits with Online Neural Regression** | [arxiv](https://arxiv.org/abs/2312.07145)  
@@ -30,7 +30,7 @@ Constrained Resources** | [arxiv](https://arxiv.org/abs/2312.17229)
 Accepted at 27th International Conference on Artificial Intelligence and Statistics (AISTATS), 2024
 
 ## News
+⭐ Aug-2024: Completed a summer internship at AWS AI Labs under [Branislav Kveton](https://bkveton.com/)
 ⭐ Jan-2024: One paper accepted at AISTATS, 2024  
 ⭐ Jan 2024: One paper accepted at ICLR, 2024  
 ⭐ Aug 2023: Presented our paper at UAI, 2023 at Pittsburgh  
-⭐ Aug 2022: Started Phd in CS at UIUC  
