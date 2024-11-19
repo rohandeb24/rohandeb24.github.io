@@ -30,7 +30,7 @@ Constrained Resources** | [arxiv](https://arxiv.org/abs/2312.17229)
 Accepted at 27th International Conference on Artificial Intelligence and Statistics (AISTATS), 2024
 
 ## News
-⭐ Aug-2024: Completed a summer internship at AWS AI Labs under [Branislav Kveton](https://bkveton.com/)
+⭐ Aug-2024: Completed a summer internship at AWS AI Labs under [Branislav Kveton](https://bkveton.com/)  
 ⭐ Jan-2024: One paper accepted at AISTATS, 2024  
 ⭐ Jan 2024: One paper accepted at ICLR, 2024  
 ⭐ Aug 2023: Presented our paper at UAI, 2023 at Pittsburgh  
