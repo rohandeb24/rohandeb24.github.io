@@ -18,6 +18,10 @@ I am broadly interested in Machine Learning with an emphasis on Sequential decis
 - Reinforcement Learning
 - Deep Learning: Optimization, Generalization, and Geometry
 
+## News
+⭐ Aug-2024: Completed a summer internship at AWS AI Labs under [Branislav Kveton](https://bkveton.com/)  
+⭐ Jan-2024: One paper accepted at AISTATS, 2024  
+⭐ Jan 2024: One paper accepted at ICLR, 2024  
 
 ## Selected Papers
 - **Conservative Contextual Bandits: Beyond Linear Representations** | [arxiv](https://arxiv.org/abs/2412.06165)  
@@ -32,9 +36,3 @@ Accepted at 12th International Conference on Learning Representations (ICLR), 20
 Constrained Resources** | [arxiv](https://arxiv.org/abs/2312.17229)  
 **Rohan Deb**, Aadirupa Saha, Arindam Banerjee  
 Accepted at 27th International Conference on Artificial Intelligence and Statistics (AISTATS), 2024
-
-## News
-⭐ Aug-2024: Completed a summer internship at AWS AI Labs under [Branislav Kveton](https://bkveton.com/)  
-⭐ Jan-2024: One paper accepted at AISTATS, 2024  
-⭐ Jan 2024: One paper accepted at ICLR, 2024  
-⭐ Aug 2023: Presented our paper at UAI, 2023 at Pittsburgh  
