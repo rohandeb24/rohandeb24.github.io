@@ -20,6 +20,10 @@ I am broadly interested in Machine Learning with an emphasis on Sequential decis
 
 
 ## Selected Papers
+- **Conservative Contextual Bandits: Beyond Linear Representations** | [arxiv](https://arxiv.org/abs/2412.06165)  
+**Rohan Deb**, Mohammad Ghavamzadeh, Arindam Banerjee  
+  Under Review at 13th International Conference on Learning Representations (ICLR), 2025
+  
 - **Contextual Bandits with Online Neural Regression** | [arxiv](https://arxiv.org/abs/2312.07145)  
 **Rohan Deb**, Yikun Ban, Shiliang Zuo, Jingrui He, Arindam Banerjee  
 Accepted at 12th International Conference on Learning Representations (ICLR), 2024
