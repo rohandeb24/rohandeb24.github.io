@@ -19,10 +19,10 @@ I am broadly interested in Machine Learning with an emphasis on Sequential decis
 - Deep Learning: Optimization, Generalization, and Geometry
 
 ## News
+⭐ May-2025: One paper accepted at RLC, 2025
+⭐ Apr-2024: One paper accepted at ICML, 2025
 ⭐ Jan 2025: One paper accepted at ICLR, 2025  
 ⭐ Aug-2024: Completed a summer internship at AWS AI Labs under [Branislav Kveton](https://bkveton.com/)  
-⭐ Jan-2024: One paper accepted at AISTATS, 2024  
-⭐ Jan 2024: One paper accepted at ICLR, 2024  
 
 ## Selected Papers
 - **Conservative Contextual Bandits: Beyond Linear Representations** | [arxiv](https://arxiv.org/abs/2412.06165)  
