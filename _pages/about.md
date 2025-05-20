@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Ph.D. student in the [Department of Computer Science](https://www.cs.illinois.edu) at the [University of Illinois, Urbana-Champaign](https://www.illinois.edu), advised by [Prof. Arindam Banerjee](https://arindam.cs.illinois.edu/). I also closely work with [Aadirupa Saha](https://aadirupa.github.io/). In the past I obtained a Master's degree from the [Department of Computer Science and Automation](https://www.csa.iisc.ac.in/) at the [Indian Institute of Science](https://iisc.ac.in/), working with [Shalabh Bhatnagar](https://www.csa.iisc.ac.in/~shalabh/) and [Gugan Thoppe](https://sites.google.com/site/gugancth/).
+I am a third year Ph.D. student in the [Department of Computer Science](https://www.cs.illinois.edu) at the [University of Illinois, Urbana-Champaign](https://www.illinois.edu), advised by [Prof. Arindam Banerjee](https://arindam.cs.illinois.edu/). In the past I obtained a Master's degree from the [Department of Computer Science and Automation](https://www.csa.iisc.ac.in/) at the [Indian Institute of Science](https://iisc.ac.in/), working with [Shalabh Bhatnagar](https://www.csa.iisc.ac.in/~shalabh/) and [Gugan Thoppe](https://sites.google.com/site/gugancth/).
 
 I am broadly interested in Machine Learning with an emphasis on Sequential decision making under uncertainty. I am currently interested in the following research threads:
 
@@ -19,6 +19,7 @@ I am broadly interested in Machine Learning with an emphasis on Sequential decis
 - Deep Learning: Optimization, Generalization, and Geometry
 
 ## News
+⭐ May-2025: Started a summer internship at SCOT-RL under [Dean Foster](https://deanfoster.net/index.pl/)     
 ⭐ May-2025: One paper accepted at RLC, 2025  
 ⭐ Apr-2024: One paper accepted at ICML, 2025  
 ⭐ Jan 2025: One paper accepted at ICLR, 2025  
