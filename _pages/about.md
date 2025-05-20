@@ -21,7 +21,7 @@ I am broadly interested in Machine Learning with an emphasis on Sequential decis
 ## News
 ⭐ May-2025: Started a summer internship at SCOT-RL under [Dean Foster](https://deanfoster.net/index.pl/)     
 ⭐ May-2025: One paper accepted at RLC, 2025  
-⭐ Apr-2024: One paper accepted at ICML, 2025  
+⭐ Apr-2025: One paper accepted at ICML, 2025  
 ⭐ Jan 2025: One paper accepted at ICLR, 2025  
 ⭐ Aug-2024: Completed a summer internship at AWS AI Labs under [Branislav Kveton](https://bkveton.com/)  
 
