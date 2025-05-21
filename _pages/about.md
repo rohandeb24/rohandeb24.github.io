@@ -19,7 +19,7 @@ I am broadly interested in Machine Learning with an emphasis on Sequential decis
 - Deep Learning: Optimization, Generalization, and Geometry
 
 ## News
-⭐ May-2025: Started a summer internship at SCOT-RL under [Dean Foster](https://deanfoster.net/index.pl/)     
+⭐ May-2025: Started a summer internship at Amazon SCOT-RL under [Dean Foster](https://deanfoster.net/index.pl/)     
 ⭐ May-2025: One paper accepted at RLC, 2025  
 ⭐ Apr-2025: One paper accepted at ICML, 2025  
 ⭐ Jan 2025: One paper accepted at ICLR, 2025  
